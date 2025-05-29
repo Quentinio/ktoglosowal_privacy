@@ -1,5 +1,5 @@
 # Polityka Prywatności
-**Data wejścia w życie: [tu wpisz datę]**
+**Data wejścia w życie: 29 Maja 2025
 
 Twoja prywatność jest dla nas ważna. Niniejsza Polityka Prywatności wyjaśnia, jakie dane są gromadzone i w jaki sposób są przetwarzane w aplikacji **ktoglosowal**.
 
